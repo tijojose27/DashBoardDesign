@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"  x="0px" y="0px" width="32" height="32" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve" viewbox="0 0 32 32">
+
+<g>
+	<defs>
+		<path id="57129431_SVGID_1__grid" d="M14,5c-1.657,0-3,1.343-3,3v48c0,1.657,1.343,3,3,3h36c1.657,0,3-1.343,3-3V21.821L43.289,5H14z"></path>
+	</defs>
+	<use xlink:href="#57129431_SVGID_1__grid" style="overflow:visible;fill:#DEDCD9;"></use>
+	<clipPath id="57129431_SVGID_2__grid">
+		<use xlink:href="#57129431_SVGID_1__grid" style="overflow:visible;"></use>
+	</clipPath>
+	<polygon class="st1" clip-path="url(#57129431_SVGID_2__grid)" points="53,59 11,59 11,4 53,28.249  " style="fill:#FFFFFF;fill-opacity:0.5;;"></polygon>
+</g>
+<path class="st5" d="M47,20H17v-2h30V20z M47,26H17v2h30V26z M47,34H17v2h30V34z M38,42H17v2h20.625L38,42z" style="fill:#231F20;fill-opacity:0.3;;"></path>
+<g>
+	<path class="st8" d="M39.927,10.819l3.353-5.813L53,21.821l-11.973-6.904C39.592,14.089,39.099,12.255,39.927,10.819z" style="fill:#DEDCD9;;"></path>
+	<path class="st3" d="M39.927,10.819l3.353-5.813L53,21.821l-11.973-6.904C39.592,14.089,39.099,12.255,39.927,10.819z" style="opacity:0.5;fill:#FFFFFF;;"></path>
+</g>
+<g>
+	<defs>
+		<path id="57129431_SVGID_3__grid" d="M45.628,39.596c0,0,14.717-25.49,15.428-26.723c0.712-1.231,1.057-4.319-2.179-6.188    c-3.236-1.868-5.738-0.025-6.449,1.207C51.717,9.124,37,34.614,37,34.614c0,2.186,0,7.207,0,8.286    c0,1.076,0.521,1.377,1.453,0.839C39.387,43.199,43.736,40.689,45.628,39.596z"></path>
+	</defs>
+	<use xlink:href="#57129431_SVGID_3__grid" class="stshockcolor" style="fill:#E9BF54;;overflow:visible;" data-st="fill:#E9BF54;;overflow:visible;"></use>
+	<clipPath id="57129431_SVGID_4__grid">
+		<use xlink:href="#57129431_SVGID_3__grid" style="overflow:visible;"></use>
+	</clipPath>
+	<g class="st4" style="clip-path:url(#57129431_SVGID_4__grid);;">
+		<polygon class="st1" points="45.707,44 37,44 37,34.614 45.628,39.596   " style="fill:#FFFFFF;fill-opacity:0.5;;"></polygon>
+		<polygon class="st6" points="40.754,44 37,44 37,40.243 40.754,42.411   " style="fill:#231F20;fill-opacity:0.6;;"></polygon>
+		<rect x="47.627" y="11.546" transform="matrix(0.866 0.5 -0.5 0.866 14.342 -25.4319)" class="st8" width="14" height="5" style="fill:#DEDCD9;;"></rect>
+		<rect x="50.376" y="6.283" transform="matrix(0.866 0.5 -0.5 0.866 12.3301 -27.4464)" class="st7" width="14" height="6" style="fill:#DD7047;;"></rect>
+		<rect x="47.225" y="4.171" transform="matrix(0.866 0.5 -0.5 0.866 20.564 -21.4049)" class="st0" width="6" height="47.001" style="opacity:0.15;fill:#231F20;;"></rect>
+	</g>
+</g>
+</svg>

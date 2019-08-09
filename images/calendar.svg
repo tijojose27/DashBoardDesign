@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"  x="0px" y="0px" width="32" height="32" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve" viewbox="0 0 32 32">
+
+<g>
+	<defs>
+		<path id="57129415_SVGID_1__grid" d="M7,54c-1.656,0-3-1.427-3-3.083V15c0-1.657,1.344-3,3-3h49.99c1.657,0,3,1.343,3,3L60,37.186L50.279,54H7z"></path>
+	</defs>
+	<use xlink:href="#57129415_SVGID_1__grid" style="overflow:visible;fill:#DEDCD9;"></use>
+	<clipPath id="57129415_SVGID_2__grid">
+		<use xlink:href="#57129415_SVGID_1__grid" style="overflow:visible;"></use>
+	</clipPath>
+	<g class="st1" style="clip-path:url(#57129415_SVGID_2__grid);;">
+		<rect x="4" y="12" class="stshockcolor" width="56" height="10" style="fill:#DE7047;;" data-st="fill:#DE7047;;"></rect>
+		<polygon class="st6" points="60,54 19.732,54 60,30.752   " style="fill:#231F20;fill-opacity:0.15;;"></polygon>
+		<path class="st3" d="M19,16c0-1.104,0-5,0-5h14.661c0,0-11.063,6.387-11.661,6.732C21.706,17.902,21.364,18,21,18    C19.896,18,19,17.104,19,16z M44,18c0.364,0,0.706-0.098,1-0.268c-0.459,0.266-0.16,0.092,11.661-6.732H42c0,0,0,3.896,0,5    S42.896,18,44,18z" style="fill:#231F20;fill-opacity:0.15;;"></path>
+	</g>
+</g>
+<path class="st2" d="M24,30.406V34l4-2v16h7V27l-4.972-0.051L24,30.406z" style="opacity:0.6;fill:#231F20;;"></path>
+<g>
+	<path class="st5" d="M46.927,48.187L50.279,54L60,37.186l-11.973,6.903C46.592,44.916,46.099,46.751,46.927,48.187z" style="fill:#DEDCD9;;"></path>
+	<path class="st0" d="M46.927,48.187L50.279,54L60,37.186l-11.973,6.903C46.592,44.916,46.099,46.751,46.927,48.187z" style="opacity:0.5;fill:#FFFFFF;;"></path>
+</g>
+<path class="st5" d="M23,16c0,1.104-0.896,2-2,2h-1c-1.104,0-2-0.896-2-2V8c0-1.104,0.896-2,2-2h1c1.104,0,2,0.896,2,2V16z M46,8  c0-1.104-0.896-2-2-2h-1c-1.104,0-2,0.896-2,2v8c0,1.104,0.896,2,2,2h1c1.104,0,2-0.896,2-2V8z" style="fill:#DEDCD9;;"></path>
+</svg>
